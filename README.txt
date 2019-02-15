@@ -1,4 +1,4 @@
-Please check HTTP-webserver file to check the specifications implemented
+Please check HTTP-webserver.pdf file to check the specifications implemented
 Libraries Imported:
 socket
 threading
